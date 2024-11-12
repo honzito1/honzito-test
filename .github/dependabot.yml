@@ -9,7 +9,7 @@ updates:
     reviewers:
       - "honzito1"
     labels:
-      - "dependabot"
+      - "dependabot-test"
     # milestone: 1
     # commit-message:
     #   prefix: "chore"
@@ -27,7 +27,7 @@ updates:
     reviewers:
       - "honzito1"
     labels:
-      - "dependabot"
+      - "dependabot-test"
     # milestone: 1
     # commit-message:
     #   prefix: "chore"
