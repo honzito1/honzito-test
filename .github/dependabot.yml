@@ -5,9 +5,9 @@ updates:
     schedule:
       interval: "daily"
     assignees:
-      - "@honzito1"
+      - "honzito1"
     reviewers:
-      - "@honzito1"
+      - "honzito1"
     labels:
       - "dependabot"
     # milestone: 1
@@ -23,9 +23,9 @@ updates:
     schedule:
       interval: "daily"
     assignees:
-      - "@honzito1"
+      - "honzito1"
     reviewers:
-      - "@honzito1"
+      - "honzito1"
     labels:
       - "dependabot"
     # milestone: 1
